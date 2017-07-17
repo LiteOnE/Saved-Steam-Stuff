@@ -1,3 +1,3 @@
 # Saved-Steam-Stuff
 
-.js and .css files that Steam has been using while sales and etc. events
+.js and .css files that Steam was using while sales and etc. events
