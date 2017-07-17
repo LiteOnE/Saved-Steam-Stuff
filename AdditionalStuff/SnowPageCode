@@ -28,4 +28,4 @@
 					});
 	</script>
 /////////////////////////
-$J('.responsive_page_content_overlay').append('<div class="holiday_snow_ctn"></div>');
+//$J('.responsive_page_content_overlay').append('<div class="holiday_snow_ctn"></div>');
